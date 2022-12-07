@@ -1,8 +1,8 @@
 import React from 'react'
 import Footer from './Footer'
-import Game from './Game'
 import Hero from './Hero'
 import Music from './Music'
+import Video from './Video'
 
 const Home = () => {
   return (
@@ -36,11 +36,11 @@ const Home = () => {
       </div>
 
       <div className='mt-4'>
-        {/* GAME */}
-        <Game />
-
         {/* MUSIC */}
         <Music />
+
+        {/* VIDEO */}
+        <Video />
       </div>
 
       <Footer />
