@@ -9,7 +9,7 @@ const Hero = () => {
       <div className='hero-overlay bg-opacity-60'></div>
       <div className='hero-content text-center text-neutral-content'>
         <div className='max-w-xl'>
-          <h1 className='mb-5 text-5xl font-bold'>Your connection</h1>
+          <h1 className='mb-5 text-5xl font-bold'>KP Store</h1>
           <p className='mb-5'>
             Jangan biarkan akunmu hanya sekedar gratisan, Ayo! upgrade akunmu
             menjadi premium dan berkelas di toko kami, dijamin murah, aman, dan
