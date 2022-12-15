@@ -11,7 +11,7 @@ const Contact = () => {
           <div className='xl:flex w-full'>
             <div className='grid xl:grid-cols-2 flex-grow card bg-base-300 rounded-box place-items-center'>
               <img src={instagram} alt='instagram' width={50} />
-              <p className='xl:mt-0 mt-4'>@your.connection</p>
+              <p className='xl:mt-0 mt-4'>@kpstore21</p>
             </div>
             <div className='divider xl:divider-horizontal'>OR</div>
             <div className='grid xl:grid-cols-2 flex-grow card bg-base-300 rounded-box place-items-center'>
